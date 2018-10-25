@@ -2,9 +2,9 @@
 #include <HttpClient.h>
 
 #define REQUEST_TIMEOUT 10000 //10 seconds
-#define WIFI_SSID "Martin Router King" //Wifi SSID
-#define WIFI_PASS "Ernghty4" //Wifi password
-#define SERVER "192.168.1.159" //Server to get sensor data
+#define WIFI_SSID "verynice" //Wifi SSID
+#define WIFI_PASS "borat1337" //Wifi password
+#define SERVER "192.168.43.128" //Server to get sensor data
 #define PORT 5000 //Server port to get sensor data
 #define LIGHT_SENSOR_PIN 0 //Analog pin number
 
